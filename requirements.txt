@@ -1,0 +1,8 @@
+torch
+torchvision
+timm
+einops
+numpy
+scipy
+opencv-python
+
